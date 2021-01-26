@@ -1,11 +1,21 @@
 {
-    "profile": {
-        "nom": "hassan",
-        "pays": "france"
-    },
-    "tableau": [
-        "<a href='#'>tbitmzyan</a>",
-        "test",
-        "maroc"
+    "data": [
+        {
+            "profile": {
+                "devloper": "full stack",
+                "age": 24,
+                "experience": 15
+            }
+        },
+        {
+            "languages": [
+                "html",
+                "css",
+                "javascrip",
+                "react js",
+                "express",
+                "node js"
+            ]
+        }
     ]
 }
